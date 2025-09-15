@@ -15,7 +15,7 @@ Przygotuj doswiadczenie VR w którym widz bedzie mógł doiswiadczyc wrażenia o
 
 ### Mechanic
 
-Przygotuj model 3D wybranego komponentu mechanicznego samolotu (goleń, mechanizm klap, usterzenie, uzbrojenie)
+Przygotuj model 3D wybranego komponentu mechanicznego samolotu / śmigłowca (goleń, mechanizm klap, usterzenie, uzbrojenie)
 
 - Oceniana praca ma byc autorska w wysokim stopniu (projektowanie odwrotne, modelowanie, druk 3D)
 - Znajdź w zasobach internetu zdjęcia i dokumentację techniczną komponentu (ew. modele 3D jako referencje)
