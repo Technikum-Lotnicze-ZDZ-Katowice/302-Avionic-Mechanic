@@ -24,9 +24,9 @@ Przygotuj model 3D wybranego komponentu mechanicznego samolotu / śmigłowca (go
 - zaplanuj działania - napisz harmonogram prac w swoim artykule
 
 
-
+---
 
 ### Tutorials
-https://www.youtube.com/watch?v=YVfkDZr8cFM
-https://www.tomsguide.com/news/google-maps-is-getting-a-slick-new-immersive-view-for-routes-heres-your-first-look
-https://mapsplatform.google.com/maps-products/aerial-view/
+- https://www.youtube.com/watch?v=YVfkDZr8cFM
+- https://www.tomsguide.com/news/google-maps-is-getting-a-slick-new-immersive-view-for-routes-heres-your-first-look
+- https://mapsplatform.google.com/maps-products/aerial-view/
