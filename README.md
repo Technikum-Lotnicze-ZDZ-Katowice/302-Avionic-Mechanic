@@ -15,7 +15,7 @@ Przygotuj doswiadczenie VR w którym widz bedzie mógł doiswiadczyc wrażenia o
 
 Przygotyuj model 3D wybranego komponentu mechanuicznego samolotu (goleń, mechanizm klap, usterzenie, uzbrojenie)
 
-- Oceniana praca ma byc autorska w wysokim stopniu
+- Oceniana praca ma byc autorska w wysokim stopniu (projektowanie odwrotne, modelowanie, druk 3D)
 - Znajdź w zasobach internetu zdjęcia i dokumentację techniczną komponentu (ew. modele 3D jako referencje)
 - zgłoś projekt nauczycielowi
 - zaplanuj działania - napisz harmonogram prac
