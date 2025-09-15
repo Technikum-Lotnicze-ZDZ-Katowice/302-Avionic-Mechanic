@@ -8,6 +8,6 @@ Przygotuj doswiadczenie VR w którym widz bedzie mógł doiswiadczyc wrażenia o
 
 - Znajdź w zasobach intenetu zdjęcia kokpitu wybranego samolotu (zdjęcia w jak najlepszej jakości, jak najwięcej zdjęć z różnej perspekrtywy)
 - Zgłoś prokjekt do nauczyciela
-- W programie 2D stwórz opisy wybranych elementóqw wyposarzenia.
+- W programie 2D stwórz opisy wybranych elementów wyposarzenia.
 
 ### Mechanic
