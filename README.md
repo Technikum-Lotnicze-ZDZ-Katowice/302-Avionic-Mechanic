@@ -1,4 +1,4 @@
-# 302-Avionick-Mechanic
+# 302-Avionic-Mechanic
 
 link do dysku google: https://drive.google.com/drive/folders/1A4rTAuvgYkEul-3MIAFt-MyJzpMfDhfc?usp=drive_link
 
