@@ -8,14 +8,17 @@ Przygotuj doswiadczenie VR w którym widz bedzie mógł doiswiadczyc wrażenia o
 
 - Znajdź w zasobach intenetu zdjęcia kokpitu wybranego samolotu (zdjęcia w jak najlepszej jakości, jak najwięcej zdjęć z różnej perspekrtywy)
 - Zgłoś prokjekt do nauczyciela
+- Utwórz artykuł na portalu [animateria.pl](http://animateria.pl/tl-planes)
+- zaplanuj działania - napisz harmonogram prac w swoim artykule
 - W programie 2D stwórz opisy wybranych elementów wyposarzenia.
   W dowolnym programie graficznym (2D) zaimportuj zdjęcie oprzyrządowania, utwórz nową wartwę (pustą) i umieść na niej opisy wybranych przyrządów 
 
 ### Mechanic
 
-Przygotyuj model 3D wybranego komponentu mechanuicznego samolotu (goleń, mechanizm klap, usterzenie, uzbrojenie)
+Przygotuj model 3D wybranego komponentu mechanicznego samolotu (goleń, mechanizm klap, usterzenie, uzbrojenie)
 
 - Oceniana praca ma byc autorska w wysokim stopniu (projektowanie odwrotne, modelowanie, druk 3D)
 - Znajdź w zasobach internetu zdjęcia i dokumentację techniczną komponentu (ew. modele 3D jako referencje)
 - zgłoś projekt nauczycielowi
-- zaplanuj działania - napisz harmonogram prac
+- Utwórz artykuł na portalu [animateria.pl](http://animateria.pl/tl-planes)
+- zaplanuj działania - napisz harmonogram prac w swoim artykule
